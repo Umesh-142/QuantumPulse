@@ -1,7 +1,7 @@
 # ⚛️ Quantum Data Generator
 
 <p align="center">
-  <img src="[https://via.placeholder.com/1200x300?text=Quantum+Data+Generator](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nist.gov%2Fcybersecurity%2Fwhat-quantum-cryptography&psig=AOvVaw2V6gfX5lto4T8SJBW_mLSi&ust=1756727599969000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCID--M3-tI8DFQAAAAAdAAAAABAE)" alt="Banner: Quantum Data Generator">
+  <img src="https://coingeek.com/wp-content/uploads/2025/04/Quantum-computing-concept-Qubit-1024x385.webp" alt="Banner: Quantum Data Generator">
 </p>
 
 <p align="center">
