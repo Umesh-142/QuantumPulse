@@ -194,24 +194,6 @@ streamlit run app.py
 
 ---
 
-## 🖼️ Screenshots
-
-<p align="center">
-  <img src="https://via.placeholder.com/900x450?text=Main+Interface" alt="Main UI" />
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/900x450?text=Rabi+Oscillation+Visualization" alt="Rabi Results" />
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/900x450?text=Bell+Correlation+and+CHSH" alt="Bell Results" />
-</p>
-
-> Replace placeholders with actual app screenshots.
-
----
-
 ## 🛠️ Troubleshooting
 
 * **Python 3.12 distutils error** → Prefer Python 3.11 or update `setuptools`
